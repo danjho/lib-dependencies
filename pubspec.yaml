@@ -1,0 +1,19 @@
+name: lib_dependencies
+description: "A new Flutter package project."
+version: 0.1.0
+homepage:
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+  flutter: ">=3.22.2"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
